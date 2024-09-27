@@ -1,0 +1,1 @@
+#1 - <verbo> <arquivo e/ou pasta afetada> @revisor
